@@ -33,7 +33,7 @@
 
           src = p.fetchurl {
             url = "https://cdn.codesurfer.ch/swift-salamander/SwiftSalamander_${finalAttrs.version}_arm64.dmg";
-            hash = "sha256-7sk14Q1eZxE2Lztj70MWABsCNuSZMNQDDkjqOyr72iM=";
+            hash = "sha256-w03le5UeDpBh59Hi4u/rOFpL5oGf4uEyEFq2OxYg9Ug=";
           };
 
           nativeBuildInputs = [ p.undmg ];
