@@ -77,4 +77,4 @@ here would be overwritten by the next release.
 Something wrong with the package, or with the app? The feedback board is at
 <https://feedback.codesurfer.ch/>.
 
-Homepage: <https://salamander.codesurfer.ch/>
+Homepage: <https://swiftsalamander.app/>
